@@ -1,0 +1,11 @@
+# Do not upload sensitive files
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
