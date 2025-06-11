@@ -26,23 +26,6 @@ Aiko isn't just a virtual assistant — she's a **warm, human-like AI** who list
 - `dotenv` for secret management
 
 ---
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/wizard-dreamer/AIKO.git
-cd AIKO
-pip install -r requirements.txt
-🔐 Setup .env
-Create a file called .env in the root folder:
-Edit
-GEMINI_API_KEY=your-gemini-api-key-here
-✅ Make sure .env is in .gitignore to keep it safe.
-
-🎮 How to Run
-python main.py
-Or however you're starting your assistant script.
-
 🔮 Roadmap
  Voice input with Whisper
 
@@ -71,3 +54,19 @@ MIT — use it freely, but please give credit if you share.
 Made with ❤️ by wizard-dreamer
 insta- @gauravsingh_0_
 Follow for updates or DM me if you want to build something cool together 🚀
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/wizard-dreamer/AIKO.git
+cd AIKO
+pip install -r requirements.txt
+🔐 Setup .env
+Create a file called .env in the root folder:
+Edit
+GEMINI_API_KEY=your-gemini-api-key-here
+✅ Make sure .env is in .gitignore to keep it safe.
+
+🎮 How to Run
+python main.py
+Or however you're starting your assistant script.
